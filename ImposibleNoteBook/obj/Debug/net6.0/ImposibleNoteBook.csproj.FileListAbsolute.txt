@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.AssemblyInfo.cs
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\bin\Debug\net6.0\ImposibleNoteBook.exe
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\bin\Debug\net6.0\ImposibleNoteBook.deps.json
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\bin\Debug\net6.0\ImposibleNoteBook.runtimeconfig.json
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\bin\Debug\net6.0\ImposibleNoteBook.dll
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\bin\Debug\net6.0\ImposibleNoteBook.pdb
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.dll
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\refint\ImposibleNoteBook.dll
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.pdb
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ImposibleNoteBook.genruntimeconfig.cache
+C:\Users\user\source\repos\ImposibleNoteBook\ImposibleNoteBook\obj\Debug\net6.0\ref\ImposibleNoteBook.dll
